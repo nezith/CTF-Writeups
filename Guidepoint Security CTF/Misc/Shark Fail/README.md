@@ -1,0 +1,1 @@
+strings -n 7 -t x fixed_sharkfail.pcapng
