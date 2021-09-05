@@ -1,2 +1,2 @@
 # CTF-Writeups
-A collection of writeups for CTFs I have participated in.
+A collection of writeups for CTFs I participated in.
